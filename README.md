@@ -1,4 +1,5 @@
 Produto
+
 Este repositório abriga a execução de um código de exibição de um objeto com nome produto com os dados de nome, marca, preço de custo e preço de venda o qual uma vez inseridos estes dados, retorna o lucro; 
 assim como também há um objeto indentificado como pessoa que se atribui nome, altura, e data de nascimento, e cria um email com os dados de nome inseridos.
 
